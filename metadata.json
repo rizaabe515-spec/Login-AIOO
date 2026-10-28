@@ -1,0 +1,6 @@
+{
+  "name": "AIOO Finance & Padel Beans Portal",
+  "description": "Luxury dark mode authentication and finance portal for AIOO Finance, Accounting & Tax and Padel Beans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
